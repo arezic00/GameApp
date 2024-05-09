@@ -52,5 +52,6 @@ Upon launching the details screen, the app fetches the game details from the net
 ## Screenshots
 
 ![Onboarding Screen](screenshots/onboarding_screen.png)
-![Main Screen](screenshots/main_screen.png)
-![Detail Screen](screenshots/detail_screen.png)
+![Games Screen](screenshots/games_screen.png)
+![Details Screen](screenshots/details_screen1.png)
+![Details Screen](screenshots/details_screen2.png)
